@@ -1,6 +1,6 @@
 # 
-# Matlab滤波器设计APP(MatlabFilterDesignApp)
-> 这是一个Matlab版本滤波器设计APP，目的是为了进行无源滤波器设计，更多可以关注微信公众号"[电路设计小工具](https://mp.weixin.qq.com/s/fxfEnir-hU0YvF9_CWyI6g)".
+# Matlab滤波器设计APP(MatlabButterworthFilterDesignApp)
+> 这是一个Matlab版本巴特沃斯滤波器设计APP，目的是为了进行无源滤波器设计，更多可以关注微信公众号"[电路设计小工具](https://mp.weixin.qq.com/s/fxfEnir-hU0YvF9_CWyI6g)".
 
 ### 如何使用(how to use)
 下载整个文件包，双击eToolsFilterDesignApp.mlapp运行即可。
